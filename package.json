@@ -18,6 +18,7 @@
   "homepage": "https://github.com/TravisBert/Site#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
+    "express": "^4.16.4",
     "node": "^11.11.0"
   }
 }
