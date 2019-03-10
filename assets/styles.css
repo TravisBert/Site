@@ -1,11 +1,10 @@
-#assurexHealth {
-    
-}
-#carPart {
-    
-}
-#siemensPLM {
-    
+#internXP {
+    border-color: #d3d3d3;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 13px;
+    margin-right: 3px; 
 }
 .mainHeader{
     text-align: center;
