@@ -15,6 +15,15 @@
     padding-top: 30px;
     font-size: 18px;
     margin: auto;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
     color: white;
 }
 #mainView{
@@ -39,4 +48,12 @@
 #footy{
     background-color: #212529;
     color: white;
+}
+#skillsCol{
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+#skillsRow{
+    margin: auto;
 }
