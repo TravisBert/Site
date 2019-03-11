@@ -50,10 +50,13 @@
     color: white;
 }
 #skillsCol{
-    margin: auto;
     margin-top: 20px;
     text-align: center;
 }
 #skillsRow{
     margin: auto;
+}
+#skillsPost{
+    margin-bottom: 20px;
+    text-align: center;
 }
