@@ -7,6 +7,7 @@
     font-size: 13px;
     margin-right: 20px; 
     margin-top: 15px;
+    margin-left: 15px;
     display: inline-block;
 }
 .collegeWork{
@@ -27,11 +28,7 @@
     color: white;
 }
 #mainView{
-    background-image: url(/assets/views.jpeg);
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-color:  #1f1f1f;
 }
 #postGradXP{
     border-color: #d3d3d3;
@@ -46,7 +43,7 @@
     margin-bottom: 20px;
 }
 #footy{
-    background-color: #212529;
+    background-color: black;
     color: white;
 }
 #skillsCol{
@@ -60,3 +57,24 @@
     margin-bottom: 20px;
     text-align: center;
 }
+.blockSection{
+    padding-top: 400px;
+    padding-bottom: 400px; 
+    color: white;
+    background-image: url(/assets/views.jpeg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.separator-type, .title-type, .intro-type, .content-type .intro-type p {
+    position: relative;
+  }
+  .intro-type .container {
+    padding: 107px 0px 102px 0px !important;
+  }
+  .company-heading h1 {
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    line-height: 80px;
+  }
