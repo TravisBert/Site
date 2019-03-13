@@ -78,3 +78,9 @@
     padding-bottom: 50px;
     line-height: 80px;
   }
+  .line{
+      color: white;
+      border: white;
+      border-style: solid;
+      margin-top: 0px;
+  }
