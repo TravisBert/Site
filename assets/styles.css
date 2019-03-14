@@ -73,12 +73,12 @@
   .intro-type .container {
     padding: 107px 0px 102px 0px !important;
   }
-  .company-heading h1 {
+.company-heading h1 {
     margin-bottom: 60px;
     padding-bottom: 50px;
     line-height: 80px;
   }
-  .line{
+.line{
       color: white;
       border: white;
       border-style: solid;
