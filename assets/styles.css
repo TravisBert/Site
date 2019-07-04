@@ -84,3 +84,13 @@
       border-style: solid;
       margin-top: 0px;
   }
+  .map{
+      text-align: center;
+  }
+main{
+    overflow:hidden;
+    overflow-y:hidden;
+}
+::-webkit-scrollbar {
+    display: none;
+    }
